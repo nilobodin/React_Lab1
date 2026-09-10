@@ -7,7 +7,7 @@ const articles = [
     author: "Анна Ивановна",
     date: "12 марта 2026",
     tag: "Основы",
-    image: "./assets/babizana.png"
+    image: "/assets/babizana.png"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const articles = [
     author: "Петр Смирнов",
     date: "18 марта 2026",
     tag: "Хуки",
-    image: "assets/babizana.png"
+    image: "/assets/babizana.png"
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const articles = [
     author: "Мария Кузнецова",
     date: "22 марта 2026",
     tag: "Инструменты",
-    image: "assets/babizana.png"
+    image: "/assets/babizana.png"
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const articles = [
     author: "Иван Петров",
     date: "25 марта 2026",
     tag: "Стили",
-    image: "assets/babizana.png"
+    image: "/assets/babizana.png"
   },
   {
     id: 5,
@@ -46,7 +46,7 @@ const articles = [
     author: "Ольга Сидорова",
     date: "30 марта 2026",
     tag: "Вёрстка",
-    image: "assets/planet.png"
+    image: "/assets/planet.png"
   },
   {
     id: 6,
@@ -55,7 +55,7 @@ const articles = [
     author: "Дмитрий Волков",
     date: "2 апреля 2026",
     tag: "Git",
-    image: "assets/planet.png"
+    image: "/assets/planet.png"
   },
   {
     id: 7,
@@ -64,7 +64,7 @@ const articles = [
     author: "Дмитрий Волков",
     date: "2 апреля 2026",
     tag: "Git",
-    image: "assets/planet.png"
+    image: "/assets/planet.png"
   },
   {
     id: 8,
@@ -73,7 +73,7 @@ const articles = [
     author: "Дмитрий Волков",
     date: "2 апреля 2026",
     tag: "Git",
-    image: "assets/planet.png"
+    image: "/assets/planet.png"
   },
 ];
 
